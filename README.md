@@ -1,2 +1,3 @@
-# Sorting-visualizer
-Sorting visualizer is a UI based web app. it consists of Insertion sort, merge sort, quick sort etc.
+# Sorting_Visualizer
+
+This project is a Web Visualization tool for sorting algorithms.
